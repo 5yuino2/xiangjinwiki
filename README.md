@@ -1,5 +1,7 @@
 # 镶金
 
+[Github](https://github.com/5yuino2/xiangjinwiki)
+|
 [Github Wiki](https://github.com/5yuino2/xiangjinwiki/wiki)
 |
 [本导航](https://xn--5m4at5e.xn--5ivs9a.work/)
