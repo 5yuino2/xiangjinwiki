@@ -6,4 +6,4 @@
 
 某K氏和某星氏到狼域对决PK，某K氏被锯爆
 
-<https://github.com/5yuino2/xiangjin/wiki/20181014>
+[花叶结婚记——2018/10/14](https://github.com/5yuino2/xiangjin/wiki/20181014)
