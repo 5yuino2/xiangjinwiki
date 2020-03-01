@@ -1,7 +1,9 @@
 # 镶金
 
 [Github Wiki](https://github.com/5yuino2/xiangjinwiki/wiki)
-[本导航](http://xn--5m4at5e.xn--5ivs9a.work/)
+|
+[本导航](https://xn--5m4at5e.xn--5ivs9a.work/)
+|
 [Weibo](https://weibo.com/u/6853364433)（不定时更新）
 
 `储存沙雕源泉的地方`
