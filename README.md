@@ -28,5 +28,5 @@
 
 # 沙雕拍摄
 
-[沙雕图片·图多、流量党注意](https://github.com/5yuino2/xiangjin/wiki/photo)
-[5.0 合照（图多、备份用）](https://github.com/5yuino2/xiangjinwiki/wiki/2022.03.14)
+- [沙雕图片·图多、流量党注意](https://github.com/5yuino2/xiangjin/wiki/photo)
+- [5.0 合照（图多、备份用）](https://github.com/5yuino2/xiangjinwiki/wiki/2022.03.14)
